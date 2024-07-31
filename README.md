@@ -11,7 +11,7 @@ Layouts Of the Project:
 - Paddle2 on the right side controlled by Player 2 using the Arrow Up and Arrow Down keys.
 
 (b) Ball:
--Positioned initially at the center and moves according to game mechanics, with speed and direction changing upon collision with walls or paddles.
+- Positioned initially at the center and moves according to game mechanics, with speed and direction changing upon collision with walls or paddles.
 
 (c) Net:
 - A visual representation of the net, located at the center of the game area, marked with a dotted line.
