@@ -20,6 +20,6 @@ Background Elements:
 (d) An image (bg) of an arcade pong machine is used as a background, providing a nostalgic feel.
 
 [3] Audio Elements:
- - PaddleSound for paddle hits.
- - WallSound for wall bounces.
- - LossSound for scoring or game over events.
+ - Paddle sound for paddle hits.
+ - Wall sound for wall bounces.
+ - Loss sound for scoring or game over events.
