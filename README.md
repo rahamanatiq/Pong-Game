@@ -15,11 +15,11 @@ Layouts Of the Project:
 
 (c) Net:
 - A visual representation of the net, located at the center of the game area, marked with a dotted line.
-Background Elements:
+  
+[3]  Background Elements:
+- An image (bg) of an arcade pong machine is used as a background, providing a nostalgic feel.
 
-(d) An image (bg) of an arcade pong machine is used as a background, providing a nostalgic feel.
-
-[3] Audio Elements:
+[4] Audio Elements:
  - Paddle sound for paddle hits.
  - Wall sound for wall bounces.
  - Loss sound for scoring or game over events.
